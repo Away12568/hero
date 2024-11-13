@@ -1,0 +1,33 @@
+.hero{
+    background-color: lightgreen;
+    height: 100dvh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-transform: uppercase;
+    background-repeat: no-repeat;
+    object-fit: cover;
+    width: 100%;  
+    background-position:  center;
+    background-size: contain;
+}
+#hero1{
+  background-image: url(https://topwar.ru/uploads/posts/2022-08/8139489dbb3a4928487ab628166781a2.jpg);
+
+
+}
+#hero2{
+ background-image: url(https://avatars.mds.yandex.net/i?id=2a00000179f5b9d3abfe3bb0c562b121c880-4575654-images-thumbs&n=13);
+}
+#hero3{
+  background-image: url(https://avatars.mds.yandex.net/i?id=b0f3c00495955d14dac05ba229474c3d38542ea5-3932796-images-thumbs&n=13);
+}
+#hero4{
+ background-image: url(https://avatars.mds.yandex.net/i?id=4be00f6bdbad7266df6334dd2f52015e_l-10896002-images-thumbs&n=13); 
+}
+#hero5{
+ background-image: url(https://avatars.mds.yandex.net/i?id=1a1065c1d37730da735e3b156ea50c0b_l-9599837-images-thumbs&n=13);  
+}
+#hero6{
+  background-image: url(https://avatars.mds.yandex.net/i?id=99b510f08e274fecad5041e4ee960c89863e6481-5220949-images-thumbs&n=13); 
+}
